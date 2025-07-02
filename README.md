@@ -6,7 +6,7 @@ Safe Mode
 
  Safe mode is a feature that allow only the essential drivers to be loaded on the computer .Safe Mode is used when our OS encounters an issue especially it is crashing due to new update or has been infected with Boot Virus or other Malware. So when our computer enters safe mode it start troubleshooting the problem and loads only minimum drivers . During this phase diagnostic programs are used to check for troubles. Audio disabled, videos are at low resolution. IT is available in windows 7,  windows 8, windows 9 . 
 
- Recovery Tools:
+ RECOVERY TOOLS:
 
  IT refers to software or process designed to restore data that has been lost, deleted or become inaccessible due to various reasons such as accident deletion , formatting , or system craches.
 
@@ -23,7 +23,7 @@ Command Prompt
 
 Reset this PC
 
-OS Repair: It refers to the process of fixing issue with an operating System that prevent it from functioning correct method to fix corrupted or missing OS files . 
+OS REPAIR: It refers to the process of fixing issue with an operating System that prevent it from functioning correct method to fix corrupted or missing OS files . 
 
 Basic method :
 
