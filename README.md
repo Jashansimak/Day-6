@@ -74,6 +74,20 @@ Backups are essential for recovery in case of OS failure or data loss.
 
   Separate Internal Drive: (e.g., D:,E:): Better than storage on the system drive(C:), but vulnerable if the whole disk fails.
 
+RJ-45 (Registered Jack-45)
+
+Type: Connector used for Ethernet networking
+
+Shape: 8-pin rectangular plug
+
+Cable Used: Commonly with Cat5, Cat6 Ethernet cables
+
+Use: Connects computers, routers, switches, etc., for LAN
+
+Speed Support: Up to 10 Gbps (with Cat6/6a)
+
+Looks Like: Slightly larger than a telephone (RJ-11) plug 
+
  
  
  
