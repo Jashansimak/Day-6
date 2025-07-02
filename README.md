@@ -88,6 +88,14 @@ Speed Support: Up to 10 Gbps (with Cat6/6a)
 
 Looks Like: Slightly larger than a telephone (RJ-11) plug 
 
+How to Make a RJ‐45 Cable:
+
+Strip the cable to remove 1 inch of the outer sheath.
+
+Untwist and straighten the wires inside of the cable
+
+Arrange the wires into the right order.
+
  
  
  
