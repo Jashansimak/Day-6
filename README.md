@@ -23,5 +23,60 @@ Command Prompt
 
 Reset this PC
 
+OS Repair: It refers to the process of fixing issue with an operating System that prevent it from functioning correct method to fix corrupted or missing OS files . 
+
+Basic method :
+
+sfc/scanner- Scan and restore system files.
+
+DISM/ONLINE/Cleanup- Image 
+
+RestoreHealth- Repairs Corrupted Windows images.
+
+Bootable USB for repair and system reinstall.
+
+Virus/Malware Symptoms:
+
+signs your system may be infected
+
+slow  performance
+
+Random pop ups or ads.
+
+Slow startup 
+
+Programs crashing
+
+Unexplained files or folders disappearing
+
+Unusual network activity:
+
+ Malware can send or receive data, causing increased network activity, especially when your devices is idle.
+
+ # VIRUS REMOVAL STEPS:
+
+1 Enter Safe Mood 
+2. Run Antivirus Scan(e.g. Windows, Defender, Avast , Malwarebytes)
+3. Clear Temp files.
+4. Reset Web browser setting.
+5. Update OS and antivirus.
+
+
+Where to Keep Windows Backups?
+
+Backups are essential for recovery in case of OS failure or data loss.
+
+  External Drive: Recommended option for offline, safe backup storage.
+
+  Separate Internal Drive: (e.g., D:,E:): Better than storage on the system drive(C:), but vulnerable if the whole disk fails.
+
+  Modern Internet Transmission(Wired Connections):
+  RJ45:
+
+  
+ 
+ 
+
+
 
  
