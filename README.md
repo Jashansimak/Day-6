@@ -74,10 +74,7 @@ Backups are essential for recovery in case of OS failure or data loss.
 
   Separate Internal Drive: (e.g., D:,E:): Better than storage on the system drive(C:), but vulnerable if the whole disk fails.
 
-  Modern Internet Transmission(Wired Connections):
-  RJ45:
-
-  
+ 
  
  
 
