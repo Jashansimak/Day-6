@@ -92,6 +92,7 @@ Speed Support: Up to 10 Gbps (with Cat6/6a)
 
 Looks Like: Slightly larger than a telephone (RJ-11) plug 
 
+White-Orange, Orange, White-Green, Blue, White-Blue, Green, White-Brown, Brown
 How to Make a RJ‐45 Cable:
 
 Strip the cable to remove 1 inch of the outer sheath.
