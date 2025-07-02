@@ -56,9 +56,13 @@ Unusual network activity:
  # VIRUS REMOVAL STEPS:
 
 1 Enter Safe Mood 
+
 2. Run Antivirus Scan(e.g. Windows, Defender, Avast , Malwarebytes)
+
 3. Clear Temp files.
+
 4. Reset Web browser setting.
+
 5. Update OS and antivirus.
 
 
