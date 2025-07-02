@@ -76,7 +76,7 @@ Backups are essential for recovery in case of OS failure or data loss.
 
 Ethernet Cable
 
-
+Ethernet cables are used to connect computers, routers, and switches for network communication.
 
 RJ-45 (Registered Jack-45)
 
