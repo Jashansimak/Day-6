@@ -112,6 +112,10 @@ Insert the wires into the RJ-45 connector.
 Stick the connector into the crimping part of the tool and squeeze twice.
 
 Remove the cable from the tool and check that all of the pins are down & test the cable
+ ![image](https://github.com/user-attachments/assets/08bbca81-f602-4edc-8be1-3f77b4d502ee)
+
+
+
  
  
  
