@@ -23,7 +23,9 @@ Command Prompt
 
 Reset this PC
 
-OS REPAIR: It refers to the process of fixing issue with an operating System that prevent it from functioning correct method to fix corrupted or missing OS files . 
+OS REPAIR:
+
+It refers to the process of fixing issue with an operating System that prevent it from functioning correct method to fix corrupted or missing OS files . 
 
 Basic method :
 
@@ -78,7 +80,7 @@ Ethernet Cable
 
 Ethernet cables are used to connect computers, routers, and switches for network communication.
 
-RJ-45 (Registered Jack-45)
+RJ-45 (REGISTERED JACK-45)
 
 Type: Connector used for Ethernet networking
 
