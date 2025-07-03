@@ -142,6 +142,73 @@ A database server handling data queries.
  WHAT IS NETWORK?
 
  A network is a group of two or more computers or devices connected together so they can communicate and share resources.
+
+ IP Address(Internal Protocol Address):
+
+ An IP address is a unique numerical identifier assigned to every device connected to a computer network that uses the internet Protocol for communication. It enables devices to communicate with each other.
+
+Protocol: Protocol is a set of rules governing how data is formatted , transmitted  and received between devices.
+
+Properties:
+
+Unique: Each device on a network must have a unique IP address.
+
+Universal: IP address are a globally recognized standard for network communicatin.
+
+       IP Type      Usage
+
+       Publice      Used on the internet , these addresses are globally unique and rutable.
+
+       private     Used within private networks(e.g., home or school networks), these addresses are not directly routable on the internet.
+
+Dynamic Nature : IP address can change over time, especially for devices on dynamic IP  assignments. However, its fundamental properties (uniqueness and universality) remain constant.
+
+IPv4( Internet Protocol Version 4): IPv4 is the fourth version of the internet Protocol.
+
+       Length: 32 bits long.
+
+       Address Space: Can theoretically support $2^{32}$ unique address.
+
+       Notations:  Decimal Notation: Use base 10 number system (digit 0-9).
+                   Most common in everyday life. Example: 192, 168, 1, 1 in IPv4 address 192.168.1.1.
+
+                  Represented in dotted - decimal format
+
+    Binary Notation:  Use base 2 number system (digits 0 and 1). 
+                      Computers operate using binary internally.
+                      Each decimal number  in an IPv4 address corresponds to an 8- bit binary number.
+
+     Example:  Decimal: 192 = Binary 11000000
+
+               Decimal: 168= Binary 10101000
+
+               Decimal 1= Binary 00000001
+
+Address Structure:
+
+Network ID(prefix): Defines the network segment to which the device belongs. This part is common for all devices within the same network .
+
+Host ID(Suffix): Uniquely identifies a specific device (host) within that network segment.
+
+Example: An international phone number where the country code represent network and the phone number represent the "host."
+
+
+IPv6( Internet Protocol Versin 6):
+
+IPv6 is the latest version of the internet Protocol, designed to address the limitations of IPv4, primarily the exhaustion of available addresses.
+
+          LENGTH: 128 Bits long 
+
+          ADDRESS SPACE: Can support a vastly larger number of addresses , approximately $2^{128}$.
+
+          Notation: Represented in hexadecimal, often with colons separating groups of 16 bits.
+
+  Classful Addressing(IPv4)
+                     
+
+
+
+ 
  
          
 
