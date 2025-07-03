@@ -114,6 +114,39 @@ Stick the connector into the crimping part of the tool and squeeze twice.
 Remove the cable from the tool and check that all of the pins are down & test the cable
  ![image](https://github.com/user-attachments/assets/08bbca81-f602-4edc-8be1-3f77b4d502ee)
 
+ 3/7/2025 Day 7
+
+ Networking Basics
+
+Host :
+
+Host refers to any device that connects to a network and can send or receive data.This includes other networked devices like smartphones,Compurts(laptops, desktops),Server,Printer, tablets, and IoT(Internet of Things) devices.
+
+Client: A client is a devices or software that initiates communication with a server to access services or resources.Example: A web Browser(like Chrome) requesting a web page.
+       
+ An email app checking your inbox.
+
+A mobile app fetching data from a server.
+
+SERVER:
+A server is a device or program that waits for request and then responds with data or services.
+
+Example:
+
+A web server hosting a webstite.
+
+A file server storing and sharing files.
+
+A database server handling data queries.
+
+ WHAT IS NETWORK?
+
+ A network is a group of two or more computers or devices connected together so they can communicate and share resources.
+ 
+         
+
+
+
 
 
  
