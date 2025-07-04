@@ -389,6 +389,16 @@ Broadcast IP:
 
 As maximum number of hosts are 62:
 205.105.65.63
+
+📝 Network Commands and Concepts
+
+DHCP(Dynamic Host Configuration Protocol) is a network protocol that automates the assignment of IP addresses and other network configuration parameters to devices on a network. 
+
+Network Commands:
+
+ping 
+
+
  
       
       
