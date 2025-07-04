@@ -258,15 +258,17 @@ In clasful addressing, address space is divided into 5 classes: A, B, C, D, E. E
 
 Broadcast vs. Multicast vs. Unicast
 
-       Parameters      	Unicast                                               	Broadcast                              	Multicast
+       Parameters      	Unicast                       	Broadcast                	Multicast
 
-         Basics     	There is only one receiver and one sender. 	There are multiple receivers and one sender. 	There are multiple receivers and multiple senders.
- 
-        Meaning
+         Basics     	There is only one                There are multiple         There are multiple
+                     receiver and one sender.       receiver and one sender.     receiver and multiple senders.
+
+       Meaning and
+       Definition
+       
 
 
-
-
+                     
 SUBNETTING
 
 Subnetting is the process of dividing a larger IP network into smaller, more manageable subnetworks (subnets).
