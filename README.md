@@ -234,7 +234,44 @@ IPv4 and IPv6
 
     E       1111          240 - 255         Reserved                N/A             N/A                  N/A                       N/A                 Experimental or research use only 
 
-   
+Network and Host
+
+Network: The part of an IP address that identifies the specific network a device belongs to.
+
+Host: The part of the IP address that identifies the specific device (computer, printer, etc.) on that network.
+
+Example:
+
+In the IP address 192.168.1.10 with subnet mask 255.255.255.0:
+
+Network part: 192.168.1
+
+Host part: 10
+
+Prefix and Suffix
+
+Prefix: Another name for the network portion of the IP address. Often expressed with CIDR notation, e.g., /24 means the first 24 bits are the network prefix.
+
+Suffix: Refers to the host  portion of the IP address — the bits left over after the prefix that identify the device.
+
+In clasful addressing, address space is divided into 5 classes: A, B, C, D, E. Each occupies some part of address space.
+
+Broadcast vs. Multicast vs. Unicast
+
+Parameters   	Unicast                                               	Broadcast                              	Multicast
+
+Basics      	There is only one receiver and one sender. 	There are multiple receivers and one sender. 	There are multiple receivers and multiple senders.
+
+Meaning
+
+
+
+
+SUBNETTING
+
+Subnetting is the process of dividing a larger IP network into smaller, more manageable subnetworks (subnets).
+
+
    
 
 
