@@ -256,19 +256,64 @@ Suffix: Refers to the host  portion of the IP address — the bits left over aft
 
 In clasful addressing, address space is divided into 5 classes: A, B, C, D, E. Each occupies some part of address space.
 
+ASSIGNMENT
+
 Broadcast vs. Multicast vs. Unicast
 
-       Parameters        	Unicast                       	Broadcast                	Multicast
+       Parameters        	Unicast                       	Broadcast                       	Multicast
 
-         Basics         	There is only one                There are multiple         There are multiple
-                         receiver and one sender.       receiver and one sender.     receiver and multiple senders.
+         Basics         	There is only one                There are multiple            There are multiple
+                         receiver and one sender.       receiver and one sender.        receiver and multiple senders.
 
-       Meaning and      Unicast is used to transfer      Broadcast sends data from 
-       Definition       data from a single sender to a     one sender to all devices
-                        single print                       on a network
+       Meaning and      Unicast is used to transfer      Broadcast sends data from        Multicast sends data from one or   
+       Definition       data from a single sender to a     one sender to all devices      more senders to a selected group of
+                        single print                       on a network                    receivers
+    
      SUBNETTING
 
 Subnetting is the process of dividing a larger IP network into smaller, more manageable subnetworks (subnets).
+
+
+
+Bandwidth: Capacity of network; data transmission rate (e.g., Mbps). Should be maximum.
+
+Latency: Delay in data transmission. Should be minimum.
+
+Host Bits: Denoted by '0's in subnet mask.
+
+Network IP: First IP of a subnet (cannot be assigned to host).
+
+Broadcast IP: Last IP of a subnet (cannot be assigned to host).
+
+SUBNET MASK
+
+A subnet mask is a 32-bit number used to divide an IP address into network and host parts.
+
+Purpose
+
+It determines which part of the IP address refers to the network and which part refers to the host.
+Helps routers and devices identify the subnet to which an IP belongs.
+Format
+
+Written in the same format as an IPv4 address (four decimal octets).
+Example: 255.255.255.0
+
+Some other small concepts:
+
+MAC (Media Access Control Address)
+Nature: A unique, 12-character hexadecimal (alphanumeric) attribute used to identify individual electronic devices on a network.
+
+Distinction from IP Address:
+
+MAC Address: Identifies the physical location of a device within a local network. It's like your permanent home address. The manufacturer provides it.
+
+IP Address: Signifies the device's global or internet-accessible identity. It's more like a temporary vacation rental address, changing depending on your network connection.
+
+DNS (Domain Name System):
+
+
+
+
 
 
    
