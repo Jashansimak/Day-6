@@ -1,4 +1,4 @@
-# 2/7/2025  Day-6 
+ # 2/7/2025  Day-6 
 
 Safe Mode
 
@@ -258,18 +258,15 @@ In clasful addressing, address space is divided into 5 classes: A, B, C, D, E. E
 
 Broadcast vs. Multicast vs. Unicast
 
-       Parameters      	Unicast                       	Broadcast                	Multicast
+       Parameters        	Unicast                       	Broadcast                	Multicast
 
-         Basics     	There is only one                There are multiple         There are multiple
-                     receiver and one sender.       receiver and one sender.     receiver and multiple senders.
+         Basics         	There is only one                There are multiple         There are multiple
+                         receiver and one sender.       receiver and one sender.     receiver and multiple senders.
 
-       Meaning and
-       Definition
-       
-
-
-                     
-SUBNETTING
+       Meaning and      Unicast is used to transfer      Broadcast sends data from 
+       Definition       data from a single sender to a     one sender to all devices
+                        single print                       on a network
+     SUBNETTING
 
 Subnetting is the process of dividing a larger IP network into smaller, more manageable subnetworks (subnets).
 
