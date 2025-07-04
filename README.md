@@ -219,8 +219,30 @@ IPv4 and IPv6
 
     
    Classful Addressing(IPv4)
-                     
+   
+   Classful addressing is an early way of dividing IPv4 addresses into fixed categories called classes based on the first few bits of the address.
+   
+     Class  Starting Bits	  IP Range   Length of Network (Bits)  	Reseved bits  	Number of Networks  	Number of Hosts         	Default Subnet Mask   	Purpose
 
+     A      	0             	0 - 126          	8                      	First	        $2^{7}$=128          $2^{24}$=16 million      255.0.0.0            Very large organizations. exp: Indian                                                                                                                                                   railways
+     
+     B       10             128 - 191        16                      First2        $2^{14}$            $2^{16}$                  255.255.0.0          Medium-sized organizations
+
+    C       110            192 - 223        24                     First3         $2^{21}$            $2^{8}$= 256              255.255.255.0          Small networks (like LANs)
+   
+    D       1110           224 -239         N/A(Multicast)          N/A             N/A                  N/A                        N/A                    Multicast groups
+
+    E       1111          240 - 255         Reserved                N/A             N/A                  N/A                       N/A                 Experimental or research use only 
+
+   
+   
+
+
+   
+
+   
+                     
+ 
 
 
  
