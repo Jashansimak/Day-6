@@ -338,11 +338,16 @@ Twisted Pair:
 
    Numericals:
 
-For 205.150.65.0/26. Find:
+For 205.150.65.0/26.   Find:
+
 Subset mask
+
 Number of subsets
+
 Number of hosts
+
 Network IP
+
 Broadcast IP.
 
 Answer:  Here /26 is CIDR Class: Class C.
