@@ -205,11 +205,11 @@ IPv6 is the latest version of the internet Protocol, designed to address the lim
 
 IPv4 and IPv6
 
-Feature	          IPv4                                	IPv6
+Feature	          IPv4                                 	IPv6
 
-Address Length	   32 bits                            	128 bits
+Address Length	   32 bits                             	128 bits
 
-Address Format	   Dotted decimal (e.g., 192.168.1.1)  	Hexadecimal, colon-separated (e.g., 2001:0db8::1)
+Address Format	   Dotted decimal (e.g., 192.168.1.1)   	Hexadecimal, colon-separated (e.g., 2001:0db8::1)
 
 
   Classful Addressing(IPv4)
