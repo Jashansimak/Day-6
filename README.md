@@ -301,6 +301,7 @@ Example: 255.255.255.0
 Some other small concepts:
 
 MAC (Media Access Control Address)
+
 Nature: A unique, 12-character hexadecimal (alphanumeric) attribute used to identify individual electronic devices on a network.
 
 Distinction from IP Address:
@@ -310,6 +311,37 @@ MAC Address: Identifies the physical location of a device within a local network
 IP Address: Signifies the device's global or internet-accessible identity. It's more like a temporary vacation rental address, changing depending on your network connection.
 
 DNS (Domain Name System):
+
+It is a naming system for computers, service etc connected to the Internet or a private network. It translates domain names (www.google.com) into machine-readable IP addresses (172.217.160.142).
+
+Default Gateway:
+Its a device (typically a router) that acts as a pathway for data to leave a local network and reach other networks, including the internet.
+
+CIDR (Classless Inter-Domain Routing):
+Modern method for IP allocation and routing, replacing classful addressing with more flexible network sizing (e.g., /24).
+
+Types of Cables: 
+
+Twisted Pair:
+
+      Types: Shielded (STP) and Unshielded (UTP).
+
+       Use: LANs (Ethernet).
+
+      Coaxial:
+      
+      Use: TV networks, older computer networks.
+
+      Fiber-Optic:
+
+      Use: High-speed networks, long distances (most commonly used today).
+
+      Numericals:
+      
+
+
+
+
 
 
 
