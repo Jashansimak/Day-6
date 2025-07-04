@@ -258,11 +258,11 @@ In clasful addressing, address space is divided into 5 classes: A, B, C, D, E. E
 
 Broadcast vs. Multicast vs. Unicast
 
-Parameters   	Unicast                                               	Broadcast                              	Multicast
+       Parameters      	Unicast                                               	Broadcast                              	Multicast
 
-Basics      	There is only one receiver and one sender. 	There are multiple receivers and one sender. 	There are multiple receivers and multiple senders.
-
-Meaning
+         Basics     	There is only one receiver and one sender. 	There are multiple receivers and one sender. 	There are multiple receivers and multiple senders.
+ 
+        Meaning
 
 
 
