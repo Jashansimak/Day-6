@@ -207,12 +207,18 @@ IPv4 and IPv6
 
     Feature	          IPv4                                 	IPv6
 
-    Address Length	   32 bits                             	128 bits
+    Address Length	    32 bits                             	128 bits
 
-    Address Format	   Dotted decimal (e.g., 192.168.1.1)   	Hexadecimal, colon-separated (e.g., 2001:0db8::1)
+    Address Format	    Dotted decimal (e.g., 192.168.1.1)  	Hexadecimal, colon-separated (e.g., 2001:0db8::1)
 
+    Address Space	     ~4.3 billion addresses              	Vast (3.4×10^38 addresses)
 
-  Classful Addressing(IPv4)
+    Header Complexity	  Simple	More complex, improved features
+
+    Deployment        	Widely used                         	Growing adoption, future-proof
+
+    
+   Classful Addressing(IPv4)
                      
 
 
