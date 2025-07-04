@@ -213,7 +213,7 @@ IPv4 and IPv6
 
     Address Space	     ~4.3 billion addresses              	Vast (3.4×10^38 addresses)
 
-    Header Complexity	  Simple	More complex, improved features
+    Header Complexity	  Simple                             	More complex, improved features
 
     Deployment        	Widely used                         	Growing adoption, future-proof
 
