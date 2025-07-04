@@ -336,7 +336,72 @@ Twisted Pair:
 
       Use: High-speed networks, long distances (most commonly used today).
 
-      Numericals:
+   Numericals:
+
+For 205.150.65.0/26. Find:
+Subset mask
+Number of subsets
+Number of hosts
+Network IP
+Broadcast IP.
+
+Answer:  Here /26 is CIDR Class: Class C.
+
+Subnet Mask: 255.255.255.192
+
+In binary: 11111111.11111111.11111111.11000000
+
+This means 26 bits are used for the network.
+
+Convering 11000000 to decimal = 
+2
+7
+ + 
+2
+6
+ = 192
+SO Subset mask is: 255.255.255.192
+Number of Subnets:
+
+26 network bits - 24 default network bits = 2 subnet bits
+Number of subnets = 
+2
+subnet bits
+=
+2
+2
+=
+4
+Number of Hosts
+
+Host ID Bits: 32 - 26 = 6
+Number of hosts = 
+2
+host bits
+−
+2
+=
+2
+6
+−
+2
+=
+64
+−
+2
+=
+62
+
+Network IP:
+
+Given IP AND (AND operation) Subset mask:
+205.105.65.0
+Broadcast IP:
+
+As maximum number of hosts are 62:
+205.105.65.63
+ 
+      
       
 
 
