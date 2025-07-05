@@ -408,7 +408,36 @@ If a reply is received, the host is "alive".
 Otherwise, its blocked.
 Syntax: ping website_address
 
-Example: ping google.com
+Example: ping www.gndec.com
+
+To Exit: Press Ctrl + C in the command prompt/terminal.
+
+Loopback Address (127.0.0.1): Loopback is a special network used to talk to yourself - your own computer.
+
+This IP always refers to "yourself" – your own computer.
+It's used to test the network configuration of your local PC.
+Example: Like sending a letter to your own house to test if your mailbox works.
+
+Technical meaning:
+
+Loopback is virtual network interface.
+
+
+
+
+TRACEROUTE:
+
+Track the journey of data 
+
+Meaning: Traceroute shows the exact path your data takes from your computer to a website 
+e.g. Traceroute gndec.com
+
+
+
+
+
+
+
 
 
  
