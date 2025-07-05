@@ -390,13 +390,25 @@ Broadcast IP:
 As maximum number of hosts are 62:
 205.105.65.63
 
+ 4/7/2025 DAY8
+
 📝 Network Commands and Concepts
 
 DHCP(Dynamic Host Configuration Protocol) is a network protocol that automates the assignment of IP addresses and other network configuration parameters to devices on a network. 
 
 Network Commands:
 
-ping 
+ping:
+
+Meaning (Simple): "Hey, are you there?" It's used to check if another computer, server, or website is currently online and reachable from your PC.
+
+Technical Meaning: ping sends ICMP (Internet Control Message Protocol) Echo Request packets to a target host.
+
+If a reply is received, the host is "alive".
+Otherwise, its blocked.
+Syntax: ping website_address
+
+Example: ping google.com
 
 
  
