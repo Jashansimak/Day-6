@@ -432,6 +432,118 @@ Track the journey of data
 Meaning: Traceroute shows the exact path your data takes from your computer to a website 
 e.g. Traceroute gndec.com
 
+Command Syntax:
+
+Linux/macOS:
+
+           traceroute [options] <destination>
+
+Windows (command is tracert):
+
+    tracert [options] <destination>
+
+Example:
+
+      traceroute google.com
+
+or on Windows:
+
+        tracert google.com
+
+*** (Asterisks) in Output: It indicates that the router at that hop did not reply.
+
+ipconfig
+
+A command-line tool used in Windows to display and manage the IP configuration of network interfaces.
+
+ifconfig
+
+A command-line utility used in Linux/Unix/macOS to configure, control, and display network interfaces.
+
+Purpose:
+
+Both commands show network settings like:
+
+•IP address
+
+•Subnet mask
+
+•Default gateway
+
+They can also be used to enable/disable interfaces or renew DHCP leases.
+
+Basic Syntax:
+
+Windows (ipconfig):
+
+        ipconfig [options]
+
+Linux/macOS (ifconfig):
+
+     ifconfig [interface] [options]
+
+What is Ethernet?
+
+Ethernet is a popular wired networking technology used to connect devices within a local area network (LAN), enabling communication and data sharing.
+
+How it Works:
+
+•Plug one end of an Ethernet cable into your PC's network port.
+
+•Plug the other end of the cable into a modem or router.
+
+•Your PC can now communicate over the network and access the internet.
+
+Where It’s Used:
+
+Home networks to connect PCs, printers, and smart devices.
+
+Business offices for reliable and secure LAN connections.
+
+Data centers for fast, stable connections between servers and storage.
+
+Industrial environments where robust, wired communication is critical.
+
+Ethernet vs Wi-Fi
+
+      Feature         	Ethernet                              	Wi-Fi
+
+   Connection Type      	Wired	                               Wireless
+
+    Speed	          Typically 100 Mbps to 10 Gbps+          	Typically 54 Mbps to 1-2 Gbps+
+
+     Reliability  	Very reliable, low interference	         Less reliable, subject to interference
+
+     Latency       	Low latency                     	        Higher latency due to wireless overhead
+
+     Security    	More secure (physical access required)    	Wireless security protocols (WPA2/WPA3)
+
+    Mobility        	Limited to cable length                	High mobility, supports device movement
+
+    Setup Complexity	     Requires cables and ports           	Easier setup, no cables needed
+
+     Cost	           Usually lower per device               	May require access points and more infrastructure
+
+     Common Usage          	Offices, data centers, gaming	           Homes, public hotspots, mobile devices
+
+     Range           	Limited by cable length (~100m max)	        Varies (up to ~100m indoors, more outdoors)
+
+Ethernet vs Wi-Fi vs LAN vs WAN
+
+         Term	          What It Is	                      Connection Type                    	Typical Use
+
+        Ethernet	      Wired network technology          	Cable (RJ45                   	Reliable, fast local connections
+
+       Wi-Fi          	Wireless network technology        	Radio waves                 	Wireless local & mobile devices
+
+       LAN	            Local Area Network (small area)   	Wired or wireless              	Home, office networks
+
+    WAN              	Wide Area Network (large area)       	Various (Internet, leased lines)  	Connects multiple LANs over long distances
+
+    
+
+
+
 
 
 
